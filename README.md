@@ -5,11 +5,11 @@
 ## The Design Challenge
 <h5>Through our initial assessment, we identified key usability problems on Zara’s website:</h5>
 <ul>
-  Complex navigation made it difficult for users to find products quickly.
-  Poor search functionality led to frustration and inefficiency.
-  Lack of clear product details such as reviews and ratings reduced customer trust.
-  Unintuitive filtering options made it harder to browse products effectively.
-  Missing customer support information left users uncertain about returns and inquiries.
+  <li>Complex navigation made it difficult for users to find products quickly.<br></li>
+  <li>Poor search functionality led to frustration and inefficiency.<br></li>
+  <li>Lack of clear product details such as reviews and ratings reduced customer trust.<br></li>
+  <li>Unintuitive filtering options made it harder to browse products effectively.<br></li>
+  <li>Missing customer support information left users uncertain about returns and inquiries.<br></li>
 </ul>
 
 ## User Research Findings
