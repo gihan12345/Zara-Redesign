@@ -31,4 +31,4 @@
   <li>User-Centered UI: A modern and visually appealing design using Figma.<br></li>
 </ul>
 
-<a href = "https://www.figma.com/proto/wXsHkpCCIC8CO7Yxeku6SY/Zara-Redesign-Project?node-id=1074-4925&t=L83CUkp9cAdXpQpV-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=351%3A228">Prototypes</a>
+<a href = "https://www.figma.com/proto/wXsHkpCCIC8CO7Yxeku6SY/Zara-Redesign-Project?node-id=1074-4925&t=L83CUkp9cAdXpQpV-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=351%3A228">Click here for Prototypes</a>
